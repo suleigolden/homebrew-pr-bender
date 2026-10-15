@@ -1,6 +1,6 @@
 cask "pr-bender" do
-  version "2.0.8"
-  sha256 "495e7dc06da3786aa13af8fd2d4c23f8ffc19ec22a7baed3e85ad24a2a9cc731"
+  version "2.0.9"
+  sha256 "01080128f91630a3182883d0f50092b61c565abc7f046b233d062d55eabbd97c"
 
   url "https://github.com/suleigolden/pr-bender-releases/releases/download/v#{version}/PR-Bender-arm64.dmg"
   name "PR Bender"
